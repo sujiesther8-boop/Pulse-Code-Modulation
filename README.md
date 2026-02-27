@@ -1,3 +1,5 @@
+# NAME:SUJITHA ESTHER
+# REG NO: 212224060266
 # Pulse-Code-Modulation
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
